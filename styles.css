@@ -1,0 +1,60 @@
+body{
+  background-color: #393E46;
+}
+h1{
+  color: #4ECCA3;
+  font-size: 6rem;
+  font-family:'Lobster', cursive;
+  text-shadow: 4px 4px #000000;
+
+}
+h2{
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.btn{
+  font-family: 'Indie Flower', cursive;
+  margin-top: 50px;
+}
+
+footer{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  margin: 50px auto 0;
+}
+img{
+  width: 150px;
+}
+.dice{
+  /* display: inline-block; */
+  margin-top: 40px;
+}
+.container{
+  text-align: center;
+  margin: auto;
+}
+.firstdiv{
+  text-align: right;
+}
+.seconddiv{
+  text-align: left;
+}
+
+@media (max-width:500px) {
+img{
+    width: 50%;
+  }
+  h1{
+    font-size: 3rem;
+
+  }
+  h2{
+    font-size: 1rem;
+  }
+
+
+}
