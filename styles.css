@@ -44,7 +44,7 @@ img{
   text-align: left;
 }
 
-@media (max-width:500px) {
+@media (max-width:600px) {
 img{
     width: 50%;
   }
