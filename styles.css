@@ -55,6 +55,12 @@ img{
   h2{
     font-size: 1rem;
   }
+    .container{
+    margin:30% auto;
+  }
+  .row{
+    margin:30% auto;
+  }
 
 
 }
